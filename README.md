@@ -29,6 +29,15 @@ By 2016, Bellabeat had opened offices around the world and launched multiple pro
 
  Additionally, Bellabeat runs video ads on Youtube and display ads on the Google Display Network to support campaigns around key marketing dates. Sršen knows that an analysis of Bellabeat’s available consumer data would reveal more opportunities for growth. She has asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, she would like high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
+**Project Approach:**
+In this project, Data Analysis is done in six major steps
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
+
 **ASK PHASE:**
 Clear Statement of Business Task:
 	Going to analyze Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights help them guide marketing strategy for the company. I will present my analysis to the Bellabeat executive team along with the high-level recommendations for Bellabeat’s marketing strategy.
